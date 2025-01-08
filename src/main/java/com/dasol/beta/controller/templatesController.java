@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class templatesController {
 
-    @GetMapping("/beta")
-    public String beta() {
-        return "main";
+    @GetMapping("/index")
+    public String index() {
+        return "index";
     }
 }

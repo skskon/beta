@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+.container {
+    width: 1280px; /* 고정 너비 설정 */
+    margin: 0 auto; /* 자동 여백 설정 */
+}
+.fa-heart {
+    color: crimson;
+}
+.fa-3x {
+    color: #f89b00;
+}
